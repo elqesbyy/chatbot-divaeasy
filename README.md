@@ -6,5 +6,3 @@ AI chatbot developed using FastAPI, LangChain, OpenAI, ChromaDB and PostgreSQL.
 
 - backend/
 - frontend/
-- knowledge_base/
-- docker/
