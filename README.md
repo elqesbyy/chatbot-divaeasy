@@ -1,8 +1,15 @@
 # Chatbot DivaEasy
 
-AI chatbot developed using FastAPI, LangChain, OpenAI, ChromaDB and PostgreSQL.
+An AI-powered chatbot developed for the DivaEasy website. The chatbot uses Retrieval-Augmented Generation (RAG) to answer users' questions based on company documents.
 
-## Project Structure
+## 🚀 Technologies
 
-- backend/
-- frontend/
+- FastAPI
+- LangChain
+- Groq LLM
+- ChromaDB (Vector Database)
+- Hugging Face Embeddings
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
